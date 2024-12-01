@@ -1,3 +1,4 @@
 # my-first-project
 this is my first git post
-Author: Vishal pala 
+<br>
+<h3>Author: Vishal pala</h3> 
